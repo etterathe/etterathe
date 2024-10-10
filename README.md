@@ -1,16 +1,19 @@
 ## Hi there 👋
+ I'm Wiktor, AI/ML Engineer specializing in implementing practical machine learning solutions. 
+ 
+ You can read more about me on [my webiste](https://etterathe.github.io/portfolio/).
 
-<!--
-**etterathe/etterathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+🔭 I’m currently working on:
+- 🔮 [medium](https://github.com/etterathe/medium) -- chat with your SQL databases and discover world of new insights
+- 📜 [historiography](https://github.com/etterathe/historiography) -- discover web browsing habits on your own hyperlink graph
+- 🎲 Basements & Earwigs -- innovative tabletop RPG game
 
-Here are some ideas to get you started:
+## Tech Stack
+I develop my projects in different technologies, here are some:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,git,docker,bash&theme=light)](https://skillicons.dev)
+
+I’m currently learning:
+
+[![My Skills](https://skillicons.dev/icons?i=go,htmx,bun,vue,nuxt)](https://skillicons.dev)
