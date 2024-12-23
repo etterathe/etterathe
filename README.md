@@ -12,8 +12,8 @@
 ## Tech Stack
 I develop my projects in different technologies, here are some:
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,git,docker,bash&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,javascript,typescript,git,docker,bun,bash&theme=light)](https://skillicons.dev)
 
 I’m currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=go,htmx,bun,vue,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nim,vue,nuxt)](https://skillicons.dev)
