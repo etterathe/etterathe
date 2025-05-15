@@ -16,4 +16,4 @@ I develop my projects in different technologies, here are some:
 
 I’m currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=nim,vue,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,vue,nuxt)](https://skillicons.dev)
