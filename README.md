@@ -3,12 +3,6 @@
  
  You can read more about me on [my webiste](https://etterathe.github.io/portfolio/).
 
-## Projects
-🔭 I’m currently working on:
-- 🔮 [medium](https://github.com/etterathe/medium) -- chat with your SQL databases and discover world of new insights
-- 📜 [historiography](https://github.com/etterathe/historiography) -- discover web browsing habits on your own hyperlink graph
-- 🎲 Basements & Earwigs -- innovative tabletop RPG game
-
 ## Tech Stack
 I develop my projects in different technologies, here are some:
 
@@ -16,4 +10,4 @@ I develop my projects in different technologies, here are some:
 
 I’m currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=rust,vue,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,svelte,clojure)](https://skillicons.dev)
