@@ -1,5 +1,5 @@
 ## Hi there 👋
- I'm Wiktor, AI/ML Engineer specializing in implementing practical machine learning solutions. 
+ I'm Wiktor, AI/ML Engineer specializing in augmented intelligence solutions. 
  
  You can read more about me on [my webiste](https://etterathe.github.io/portfolio/).
 
